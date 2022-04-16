@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "527538886215",
+    "project_id": "login-fb30b",
+    "storage_bucket": "login-fb30b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527538886215:android:b4d6f36185020bca6b8362",
+        "android_client_info": {
+          "package_name": "com.example.japtangg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527538886215-o28cfnv5dm12aqaclqkhfddb4fl2t3cs.apps.googleusercontent.com",
+          "client_type": 3,
+          "android_info": {
+            "package_name": "com.example.japtangg",
+            "certificate_hash": "8bdd7de2f05e51dcae3880596c0d14bceb30debc"
+          }
+        },
+        {
+          "client_id": "527538886215-n76qrsusnfpd0tp62n7tm0opt798gu6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1iVsLnsl3JHuDek0VZ0fpQsfhFEgHoVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527538886215-n76qrsusnfpd0tp62n7tm0opt798gu6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
