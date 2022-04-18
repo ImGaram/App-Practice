@@ -16,16 +16,11 @@ object OkHttp {
     const val LOGGING_INTERCEPTOR = "com.squareup.okhttp3:logging-interceptor:4.9.1"
 }
 
-object Glide {
-    const val GLIDE = "com.github.bumptech.glide:glide:4.11.0"
-}
-
 object AndroidX {
     const val ACTIVITY = "androidx.activity:activity-ktx:1.1.0"
 }
 
 object LifeCycle {
-    const val LIFECYCLE_VIEWMODEL = "androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0"
     const val LIFECYCLE_LIVEDATA  = "androidx.lifecycle:lifecycle-livedata-ktx:2.4.0"
 }
 

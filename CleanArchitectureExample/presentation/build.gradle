@@ -54,7 +54,6 @@ dependencies {
     implementation (OkHttp.LOGGING_INTERCEPTOR)
 
     // lifeCycle
-    implementation (LifeCycle.LIFECYCLE_VIEWMODEL)
     implementation (LifeCycle.LIFECYCLE_LIVEDATA)
 
     // activity
