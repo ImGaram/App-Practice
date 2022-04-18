@@ -26,6 +26,7 @@ object AndroidX {
 
 object LifeCycle {
     const val LIFECYCLE_VIEWMODEL = "androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0"
+    const val LIFECYCLE_LIVEDATA  = "androidx.lifecycle:lifecycle-livedata-ktx:2.4.0"
 }
 
 object Coroutine {
