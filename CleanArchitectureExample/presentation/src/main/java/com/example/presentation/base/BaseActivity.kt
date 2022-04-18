@@ -6,10 +6,10 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.databinding.ViewDataBinding
 
-abstract class BaseActivity<T: ViewDataBinding, V: BaseViewModel>(@LayoutRes private val layoutResId: Int)
-    :AppCompatActivity(layoutResId) {
+abstract class BaseActivity<T : ViewDataBinding, V : BaseViewModel>(@LayoutRes private val layoutResId: Int)
+    : AppCompatActivity(layoutResId) {
 
-        protected lateinit var binding: T
+    protected lateinit var binding: T
         private set
 
     protected abstract val viewModel: V
@@ -24,9 +24,5 @@ abstract class BaseActivity<T: ViewDataBinding, V: BaseViewModel>(@LayoutRes pri
     private fun performDataBinding() {
         binding.lifecycleOwner = this
         binding.executePendingBindings()
-    }
-
-    protected fun binding(action: T.() -> Unit) {
-        binding.run(action)
     }
 }
