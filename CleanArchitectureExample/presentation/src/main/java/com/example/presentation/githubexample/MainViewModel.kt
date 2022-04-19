@@ -1,11 +1,11 @@
-package com.example.presentation
+package com.example.presentation.githubexample
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
 import com.example.domain.githubexample.model.GithubRepo
 import com.example.domain.githubexample.usecase.GetGithubReposUseCase
-import com.example.presentation.base.BaseViewModel
+import com.example.presentation.githubexample.base.BaseViewModel
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 

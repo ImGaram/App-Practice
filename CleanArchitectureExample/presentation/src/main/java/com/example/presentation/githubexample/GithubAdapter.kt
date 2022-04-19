@@ -1,4 +1,4 @@
-package com.example.presentation
+package com.example.presentation.githubexample
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater

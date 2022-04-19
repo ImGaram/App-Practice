@@ -1,4 +1,4 @@
-package com.example.presentation.base
+package com.example.presentation.githubexample.base
 
 import androidx.lifecycle.Observer
 

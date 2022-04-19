@@ -1,8 +1,9 @@
-package com.example.presentation
+package com.example.presentation.githubexample
 
 import android.os.Bundle
 import androidx.activity.viewModels
-import com.example.presentation.base.BaseActivity
+import com.example.presentation.R
+import com.example.presentation.githubexample.base.BaseActivity
 import com.example.presentation.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 
