@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidStudioBasic/app/src/main/res/layout/activity_addview.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AndroidStudioBasic/app/src/main/res/layout/activity_bundle.xml" value="0.23125" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidStudioBasic/app/src/main/res/layout/activity_calculator.xml" value="0.2390625" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidStudioBasic/app/src/main/res/layout/activity_context.xml" value="0.264" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidStudioBasic/app/src/main/res/layout/activity_fragment.xml" value="0.25364583333333335" />
@@ -26,6 +27,7 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidStudioBasic/app/src/main/res/layout/activity_tab_pager2.xml" value="0.264" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidStudioBasic/app/src/main/res/layout/activity_thread.xml" value="0.264" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidStudioBasic/app/src/main/res/layout/fragment_one.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AndroidStudioBasic/app/src/main/res/layout/fragment_result_bundle.xml" value="0.23125" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidStudioBasic/app/src/main/res/layout/fragment_three.xml" value="0.264" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidStudioBasic/app/src/main/res/layout/fragment_two.xml" value="0.264" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidStudioBasic/app/src/main/res/layout/item_view.xml" value="0.264" />
