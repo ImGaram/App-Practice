@@ -3,6 +3,7 @@ package com.example.mvvmexample.model
 import androidx.lifecycle.LiveData
 import androidx.room.*
 
+@Dao
 interface DAO {
 
     // 데이터 베이스 불러오기
