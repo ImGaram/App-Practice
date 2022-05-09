@@ -1,5 +1,6 @@
 package com.example.presentation.githubexample
 
+import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
@@ -19,6 +20,7 @@ class MainViewModel @Inject constructor(
     fun getGithubRepositories(owner: String) {
         githubReposUseCase(owner, viewModelScope) {
             _githubRepositories.value = it
+            Log.d("SUCCESS", "getGithubRepositories value: ${_githubRepositories.value}")
         }
     }
 }
